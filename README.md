@@ -19,17 +19,17 @@ project/
 
   │   └── train/
 
-  │       ├── eraser/
+  │       ├── silgi/
 
-  │       ├── ballpoint_pen/
+  │       ├── tukenmez_kalem/
 
-  │       ├── mechanical_pencil/
+  │       ├── uclu_kalem/
 
-  │       ├── felt_tip_pen/
+  │       ├── keceli_kalem/
 
-  │       ├── book/
+  │       ├── kitap/
 
-  │       └── lighter/
+  │       └── cakmak/
 
 ├── model.py
 
